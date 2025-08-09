@@ -1,6 +1,5 @@
-bin = [
-  { name = "is_unique", path = "src/chapter01/is_unique.rs" },
-]
+
+bin = [{ name = "is_unique", path = "chapter01/is_unique.rs" }]
 
 [package]
 name = "CTCI-6th-Edition-Rust"
